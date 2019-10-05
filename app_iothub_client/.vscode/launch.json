@@ -95,8 +95,8 @@
                 ]
             },
             "osx": {
-                "MIDebuggerPath": "/usr/local/gcc-arm-none-eabi-6-2017-q2-update/bin/arm-none-eabi-gdb",
-                "debugServerPath": "/usr/local/gnu-mcu-eclipse/openocd/0.10.0-12-20190422-2015/bin/openocd",
+                "MIDebuggerPath": "/usr/local/Cellar/gcc-arm-none-eabi-63/20170628/bin/arm-none-eabi-gdb",
+                "debugServerPath": "/usr/local/Cellar/open-ocd/0.10.0/bin/openocd",
                 "setupCommands": [
                     {
                         "text": "-environment-cd ${workspaceRoot}/Debug",
