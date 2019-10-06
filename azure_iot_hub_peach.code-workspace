@@ -40,7 +40,7 @@
 			"TCINSTALL": "/C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/",
 		},
 		"terminal.integrated.env.osx": {
-			"PATH": "/usr/local/Cellar/gcc-arm-none-eabi-63/20170628/bin:/usr/local/Cellar/open-ocd/0.10.0/bin:${env:PATH}",
+			"PATH": "/usr/local/Cellar/gcc-arm-none-eabi-63/20170628/bin:/usr/local/gnu-mcu-eclipse/openocd/0.10.0-12-20190422-2015/bin:${env:PATH}",
 			"TCINSTALL": "/usr/local/Cellar/gcc-arm-none-eabi-63/20170628/",
 		},
 		"terminal.integrated.shell.linux": "/bin/bash",
